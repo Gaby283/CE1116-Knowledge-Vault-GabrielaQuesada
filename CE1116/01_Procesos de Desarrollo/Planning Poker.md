@@ -14,7 +14,7 @@ Cada miembro del equipo da una estimación y luego se discute las diferencias en
 - 
 
 ## 🔗 Connections
-- [[CE1116/00_Inbox/Scrum|Scrum]]
+- [[Scrum|Scrum 1]]
 - [[Story Points]]
 - [[Velocity]]
 - [[User Story]]

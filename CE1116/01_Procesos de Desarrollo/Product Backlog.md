@@ -13,7 +13,7 @@ Es una lista ordenada de todo lo que se necesita para poder desarrollar y mejora
 - 
 
 ## 🔗 Connections
-- [[CE1116/00_Inbox/Scrum|Scrum]]
+- [[Scrum|Scrum 1]]
 - [[Sprint Backlog]]
 - [[Product Owner]]
 - [[User Story]]

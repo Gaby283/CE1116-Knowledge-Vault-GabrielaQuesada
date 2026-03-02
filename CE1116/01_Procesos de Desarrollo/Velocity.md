@@ -13,7 +13,7 @@ Es una medida para decir cuánto trabajo puede realizar un equipo durante un Spr
 - 
 
 ## 🔗 Connections
-- [[CE1116/00_Inbox/Scrum|Scrum]]
+- [[Scrum|Scrum 1]]
 - [[Story Points]]
 - [[Sprint Planning]]
 - [[Product Backlog]]

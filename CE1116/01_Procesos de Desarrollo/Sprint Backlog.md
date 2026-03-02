@@ -13,7 +13,7 @@ El conjunto de tareas o elementos del Product Backlog seleccionado por el equipo
 - 
 
 ## 🔗 Connections
-- [[CE1116/00_Inbox/Scrum|Scrum]]
+- [[Scrum|Scrum 1]]
 - [[Product Backlog]]
 - [[Sprint Planning]]
 - [[Taskboard]]

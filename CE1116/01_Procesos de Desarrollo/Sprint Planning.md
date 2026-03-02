@@ -13,7 +13,7 @@ Es la reunión que se realiza al inicio de cada Sprint para decidir qué y de qu
 - 
 
 ## 🔗 Connections
-- [[CE1116/00_Inbox/Scrum|Scrum]]
+- [[Scrum|Scrum 1]]
 - [[Product Backlog]]
 - [[Sprint Backlog]]
 - [[Velocity]]

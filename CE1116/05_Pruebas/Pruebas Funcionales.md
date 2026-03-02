@@ -15,7 +15,7 @@ Son pruebas que se realizan para verificar que el sistema cumple correctamente l
 ## 🔗 Connections
 - [[Requerimientos Funcionales]]
 - [[Definition of Done (DoD)]]
-- [[CE1116/00_Inbox/Scrum|Scrum]]
+- [[Scrum|Scrum 1]]
 - [[User Story]]
 
 ## 💡 Personal Insight (Opcional)

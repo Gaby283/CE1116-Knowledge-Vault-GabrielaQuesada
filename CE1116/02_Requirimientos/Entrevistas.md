@@ -16,7 +16,7 @@ Topic:
 - 
 
 ## 🔗 Connections
-- [[Scrum ]]
+- [[Scrum]]
 
 ## 💡 Personal Insight (Opcional)
 - 

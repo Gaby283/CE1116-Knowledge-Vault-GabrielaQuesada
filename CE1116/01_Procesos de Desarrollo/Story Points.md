@@ -14,7 +14,7 @@ Una unidad de medida usada en los Scrum para medir el esfuerzo(complejidad, ries
 
 ## 🔗 Connections
 - [[Velocity]]
-- [[CE1116/00_Inbox/Scrum|Scrum]]
+- [[Scrum|Scrum 1]]
 - [[User Story]]
 - [[Sprint Planning]]
 - [[Planning Poker]]

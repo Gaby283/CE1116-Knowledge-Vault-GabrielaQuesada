@@ -13,7 +13,7 @@ Es la forma en la que se organiza un proyecto priorizando la flexibilidad y la c
 - 
 
 ## 🔗 Connections
-- [[CE1116/00_Inbox/Scrum|Scrum]]
+- [[Scrum|Scrum 1]]
 - [[Product Owner]]
 - [[Sprint Planning]]
 - [[Product Backlog]]

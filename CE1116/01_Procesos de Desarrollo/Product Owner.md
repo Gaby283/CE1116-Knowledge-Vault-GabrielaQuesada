@@ -13,7 +13,7 @@ Es la persona que decide lo que se va a desarrollar y también en el orden en qu
 - 
 
 ## 🔗 Connections
-- [[CE1116/00_Inbox/Scrum|Scrum]]
+- [[Scrum|Scrum 1]]
 - [[Product Backlog]]
 - [[Sprint Planning]]
 - [[Stakeholder]]

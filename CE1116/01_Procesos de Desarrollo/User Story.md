@@ -17,7 +17,7 @@ Como administrador quiero actualizar el inventario para mantener disponibles los
 - 
 
 ## 🔗 Connections
-- [[CE1116/00_Inbox/Scrum|Scrum]]
+- [[Scrum|Scrum 1]]
 - [[Product Backlog]]
 - [[Sprint Backlog]]
 - [[Story Points]]

@@ -13,7 +13,7 @@ Es un conjunto de criterios que debe cumplir una tarea para considerarse realmen
 - 
 
 ## 🔗 Connections
-- [[CE1116/00_Inbox/Scrum|Scrum]]
+- [[Scrum|Scrum 1]]
 - [[Sprint Backlog]]
 - [[Pruebas Funcionales]]
 - [[Product Owner]]
