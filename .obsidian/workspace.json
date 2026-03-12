@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5771f3e026e0f708",
+        "id": "0836f0266e4cb187",
         "type": "tabs",
         "children": [
           {
-            "id": "fa467c62891f34a8",
+            "id": "8db27438f5365bec",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "front",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Buscar"
             }
           },
           {
@@ -67,14 +67,15 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "825d4fa8716a355e",
@@ -165,34 +166,34 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "fa467c62891f34a8",
+  "active": "8db27438f5365bec",
   "lastOpenFiles": [
+    "CE1116/01_Procesos de Desarrollo/Ventana de Contexto.md",
+    "CE1116/05_Pruebas/Alucinaciones.md",
+    "CE1116/03_Arquitectura y Diseño/Redes Neuronales.md",
+    "CE1116/03_Arquitectura y Diseño/Mecanismo de Atención.md",
+    "CE1116/03_Arquitectura y Diseño/Función de Activación.md",
+    "CE1116/03_Arquitectura y Diseño/Arquitectura Transformer.md",
+    "CE1116/01_Procesos de Desarrollo/Embeddings.md",
+    "CE1116/01_Procesos de Desarrollo/Tokenización.md",
+    "CE1116/07_Mantenimiento/Monitoreo de Aplicación.md",
+    "README.md",
+    "CE1116/01_Procesos de Desarrollo/Velocity.md",
+    "CE1116/01_Procesos de Desarrollo/Definition of Done (DoD).md",
     "CE1116/01_Procesos de Desarrollo/Product Backlog.md",
     "CE1116/01_Procesos de Desarrollo/Sprint Backlog.md",
     "CE1116/01_Procesos de Desarrollo/Sprint Planning.md",
     "CE1116/01_Procesos de Desarrollo/Scrum.md",
     "CE1116/01_Procesos de Desarrollo/Scrum.md",
     "CE1116/05_Pruebas/Pruebas Funcionales.md",
-    "CE1116/01_Procesos de Desarrollo/Definition of Done (DoD).md",
     "CE1116/01_Procesos de Desarrollo/User Story.md",
     "CE1116/01_Procesos de Desarrollo/Product Owner.md",
     "CE1116/01_Procesos de Desarrollo/Planning Poker.md",
     "CE1116/01_Procesos de Desarrollo/Story Points.md",
-    "CE1116/01_Procesos de Desarrollo/Velocity.md",
     "CE1116/01_Procesos de Desarrollo/Taskboard.md",
     "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
     "CE1116/08_Templates/Atomic Template.md",
     "CE1116/01_Procesos de Desarrollo/Filosofía ágil.md",
-    "CE1116/02_Requirimientos/Requerimientos No Funcionales.md",
-    "CE1116/02_Requirimientos/Requerimientos Funcionales.md",
-    "CE1116/02_Requirimientos/Requerimientos de Sistema.md",
-    "CE1116/02_Requirimientos/Requerimientos de Negocio.md",
-    "README.md",
-    "CE1116/02_Requirimientos/Stakeholder.md",
-    "CE1116/06_Despliegue e Infrastructura/Azure DevOps.md",
-    "CE1116/03_Arquitectura y Diseño/Microservicios.md",
-    "CE1116/02_Requirimientos/Entrevistas.md",
-    "CE1116/04_Implementación/Estándares de Programación.md",
     "Untitled.canvas",
     "CE1116/08_Templates",
     "CE1116/00_Inbox",
