@@ -7,7 +7,7 @@ tags:
   - pesos
   - sesgos
   - función_de_activación
-Tema:
+Tema: aprendizaje_profundo
 ---
 
 ## 📚 Idea/Concepto 

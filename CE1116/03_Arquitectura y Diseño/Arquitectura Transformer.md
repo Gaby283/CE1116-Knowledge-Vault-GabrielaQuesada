@@ -6,7 +6,7 @@ tags:
   - capas
   - atención
   - positional_encoding
-Tema:
+Tema: arquitectura_en_modelos_de_lenguaje
 ---
 
 ## 📚 Idea/Concepto 

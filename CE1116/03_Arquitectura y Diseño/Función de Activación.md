@@ -6,7 +6,7 @@ tags:
   - suma_ponderada
   - valor
   - derivable
-Tema:
+Tema: funciones_en_redes_neuronales
 ---
 
 ## 📚 Idea/Concepto 

@@ -6,7 +6,7 @@ tags:
   - vector
   - espacio
   - dimensiones
-Tema:
+Tema: representación_vectorial
 ---
 
 ## 📚 Idea/Concepto 

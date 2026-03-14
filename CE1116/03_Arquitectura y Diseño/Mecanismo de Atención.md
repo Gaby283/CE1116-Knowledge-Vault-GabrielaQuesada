@@ -9,7 +9,7 @@ tags:
   - value
   - softmax
   - multi-cabezal
-Tema:
+Tema: atención_en_modelos_de_lenguaje
 ---
 
 ## 📚 Idea/Concepto 

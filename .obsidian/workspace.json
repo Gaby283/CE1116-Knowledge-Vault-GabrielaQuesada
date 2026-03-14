@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0836f0266e4cb187",
+        "id": "f28fecc20e1a535f",
         "type": "tabs",
         "children": [
           {
-            "id": "8db27438f5365bec",
+            "id": "a15556b99e533d1c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -70,8 +70,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,17 +165,18 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "8db27438f5365bec",
+  "active": "a15556b99e533d1c",
   "lastOpenFiles": [
-    "CE1116/01_Procesos de Desarrollo/Ventana de Contexto.md",
     "CE1116/05_Pruebas/Alucinaciones.md",
     "CE1116/03_Arquitectura y Diseño/Redes Neuronales.md",
-    "CE1116/03_Arquitectura y Diseño/Mecanismo de Atención.md",
     "CE1116/03_Arquitectura y Diseño/Función de Activación.md",
     "CE1116/03_Arquitectura y Diseño/Arquitectura Transformer.md",
-    "CE1116/01_Procesos de Desarrollo/Embeddings.md",
+    "CE1116/01_Procesos de Desarrollo/Ventana de Contexto.md",
     "CE1116/01_Procesos de Desarrollo/Tokenización.md",
+    "CE1116/01_Procesos de Desarrollo/Embeddings.md",
     "CE1116/07_Mantenimiento/Monitoreo de Aplicación.md",
+    "CE1116/01_Procesos de Desarrollo/Taskboard.md",
+    "CE1116/03_Arquitectura y Diseño/Mecanismo de Atención.md",
     "README.md",
     "CE1116/01_Procesos de Desarrollo/Velocity.md",
     "CE1116/01_Procesos de Desarrollo/Definition of Done (DoD).md",
@@ -190,7 +190,6 @@
     "CE1116/01_Procesos de Desarrollo/Product Owner.md",
     "CE1116/01_Procesos de Desarrollo/Planning Poker.md",
     "CE1116/01_Procesos de Desarrollo/Story Points.md",
-    "CE1116/01_Procesos de Desarrollo/Taskboard.md",
     "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
     "CE1116/08_Templates/Atomic Template.md",
     "CE1116/01_Procesos de Desarrollo/Filosofía ágil.md",

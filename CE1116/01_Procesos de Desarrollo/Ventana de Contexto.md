@@ -6,7 +6,7 @@ tags:
   - tokens
   - interacción
   - límite
-Tema:
+Tema: procesamiento_de_texto_en_secuencia
 ---
 
 ## 📚 Idea/Concepto 

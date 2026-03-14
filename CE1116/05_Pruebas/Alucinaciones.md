@@ -7,7 +7,7 @@ tags:
   - respuesta
   - modelo
   - probabilidad
-Tema:
+Tema: comportamiento_en_modelos_de_lenguaje
 ---
 
 ## 📚 Idea/Concepto 
