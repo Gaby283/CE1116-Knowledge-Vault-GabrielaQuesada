@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f28fecc20e1a535f",
+        "id": "012ecd8d6c065f67",
         "type": "tabs",
         "children": [
           {
-            "id": "a15556b99e533d1c",
+            "id": "9de2909562be3eed",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/06_Despliegue e Infrastructura/Redundante localmente en el cloud.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Redundante localmente en el cloud"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "front",
+                "query": "tag:Hibrido",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,34 +169,34 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "a15556b99e533d1c",
+  "active": "9de2909562be3eed",
   "lastOpenFiles": [
-    "CE1116/05_Pruebas/Alucinaciones.md",
+    "CE1116/06_Despliegue e Infrastructura/Cloud Público.md",
+    "CE1116/06_Despliegue e Infrastructura/Redundante en zona en el cloud.md",
+    "CE1116/06_Despliegue e Infrastructura/Redundante localmente en el cloud.md",
+    "CE1116/03_Arquitectura y Diseño/Escalamiento horizontal y vertical en el cloud.md",
+    "CE1116/03_Arquitectura y Diseño/Cloud Híbrido (Hybrid cloud).md",
+    "CE1116/06_Despliegue e Infrastructura/Virtual Private Cloud (VPC).md",
+    "CE1116/06_Despliegue e Infrastructura/Redundante geo-redundante en el cloud.md",
+    "CE1116/03_Arquitectura y Diseño/IaaS vs PaaS vs SaaS.md",
+    "CE1116/03_Arquitectura y Diseño/Microservicios.md",
     "CE1116/03_Arquitectura y Diseño/Redes Neuronales.md",
     "CE1116/03_Arquitectura y Diseño/Función de Activación.md",
+    "CE1116/04_Implementación/Estándares de Programación.md",
+    "CE1116/07_Mantenimiento/Monitoreo de Aplicación.md",
+    "CE1116/06_Despliegue e Infrastructura/Azure DevOps.md",
+    "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
+    "Sin título.md",
+    "CE1116/05_Pruebas/Alucinaciones.md",
     "CE1116/03_Arquitectura y Diseño/Arquitectura Transformer.md",
     "CE1116/01_Procesos de Desarrollo/Ventana de Contexto.md",
     "CE1116/01_Procesos de Desarrollo/Tokenización.md",
     "CE1116/01_Procesos de Desarrollo/Embeddings.md",
-    "CE1116/07_Mantenimiento/Monitoreo de Aplicación.md",
     "CE1116/01_Procesos de Desarrollo/Taskboard.md",
     "CE1116/03_Arquitectura y Diseño/Mecanismo de Atención.md",
     "README.md",
     "CE1116/01_Procesos de Desarrollo/Velocity.md",
     "CE1116/01_Procesos de Desarrollo/Definition of Done (DoD).md",
-    "CE1116/01_Procesos de Desarrollo/Product Backlog.md",
-    "CE1116/01_Procesos de Desarrollo/Sprint Backlog.md",
-    "CE1116/01_Procesos de Desarrollo/Sprint Planning.md",
-    "CE1116/01_Procesos de Desarrollo/Scrum.md",
-    "CE1116/01_Procesos de Desarrollo/Scrum.md",
-    "CE1116/05_Pruebas/Pruebas Funcionales.md",
-    "CE1116/01_Procesos de Desarrollo/User Story.md",
-    "CE1116/01_Procesos de Desarrollo/Product Owner.md",
-    "CE1116/01_Procesos de Desarrollo/Planning Poker.md",
-    "CE1116/01_Procesos de Desarrollo/Story Points.md",
-    "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
-    "CE1116/08_Templates/Atomic Template.md",
-    "CE1116/01_Procesos de Desarrollo/Filosofía ágil.md",
     "Untitled.canvas",
     "CE1116/08_Templates",
     "CE1116/00_Inbox",
